@@ -1,7 +1,7 @@
 # Die Mischwirtschaft
 > "The revenue of the state *is* the state." -- Edmund Burke
 
-Die demokratischen, freiheitlichen und reichen Volkswirtschaften  Westeuropas sind alle Mischwirtschaften. Kapitalistisches Profitmotiv und Privateigentum an den Produktionsmitteln werden ergänzt durch umfassende staatliche Markteingriffe. Die historische Errungenschaft des westlichen Wohlfahrtsstaats -- Wachstum, breite Teilhabe und sozialer Frieden -- basiert auf dieser einmaligen Kompromissformel von Markt und Staat. Das zentrales Politikinstrument dieser Wirtschaftsordnung ist progressive Besteuerung, mit deren Einnahmen Umverteilung, öffentliche Güter, Sozialleistungen und Struktur- und Industriepolitik finanziert werden. 
+Die demokratischen, freiheitlichen und reichen Volkswirtschaften Westeuropas sind alle Mischwirtschaften. Kapitalistisches Profitmotiv und Privateigentum an den Produktionsmitteln werden ergänzt durch umfassende staatliche Markteingriffe. Die historische Errungenschaft des westlichen Wohlfahrtsstaats -- Wachstum, breite Teilhabe und sozialer Frieden -- basiert auf dieser einmaligen Kompromissformel von Markt und Staat. Das zentrales Politikinstrument dieser Wirtschaftsordnung ist progressive Besteuerung, mit deren Einnahmen Umverteilung, öffentliche Güter, Sozialleistungen und Struktur- und Industriepolitik finanziert werden. 
 
 Bisher ist europäische Einigung ein Projekt mit neoliberaler Schlagseite: der europäische Markt ist geschaffen und effektiv reguliert. Die andere Seite des der Mischwirtschaft fehlt auf europäischer Ebene, und in vielen neuen Mitgliedsländern.
 
@@ -9,7 +9,7 @@ Die bereits vollendete Liberalisierung gefährdet die Errungenschaften der Misch
 
 Gegen die Folie der nationalen Mischwirtschaft erscheint die Europäische Union als unvollständiges, ungerechtes und prekäres Projekt regionaler Integration. 
 
-Für eine europäische Mischwirtschaft braucht es eine europäisierte Steuerpolitik, gefolgt von Struktur-, Industrie- und Sozialpolitik. Steuern auf dem Niveau der reichen Volkswirtschaften sind allerdings für die armen Mitgliedsländer nicht zu leisten. Deshalb müssten die reichen Staaten, den Armen Ländern zusätzliche Transfers zukommen lassen.
+Für eine europäische Mischwirtschaft braucht es eine europäisierte Steuerpolitik, gefolgt von Struktur-, Industrie- und Sozialpolitik. Steuern auf dem Niveau der reichen Volkswirtschaften sind allerdings für die armen Mitgliedsländer nicht zu leisten. Deshalb müssten die reichen Staaten, den armen Ländern zusätzliche Transfers zukommen lassen.
 
 Hinter der Frage nach der europäischen Mischwirtschaft, steckt also auch die Frage nach der Annäherung der Lebensbedingungen in Europa.
 
@@ -18,7 +18,7 @@ Hinter der Frage nach der europäischen Mischwirtschaft, steckt also auch die Fr
 
 > The Secretary, after mature reflection on this point, entertains a full conviction, that an assumption of the debts of the particular states by the union, and a like provision for them, as for those of the union, will be a measure of sound policy and substantial justice'' -- Alexander Hamilton, first US treasury secretary, 14 January 1790
 
-Der europäischen Wirtschaftsordnung fehlen essentielle Institutionen der Mischwirtschaften der Nachkriegszeig. Wirtschaftliche Integration im gegenwärtigen Modus gefährdet so die Errungenschaften der (westlichen) Wohlfahrtsstaaten, stört die historische Balance zwischen Wachstums- und Verteilungszielen und schafft makroökonomische Ungleichgewichte, die sich in periodischen Krisen entladen. Die europäische Wirtschaftsordnung steht schief und wackelig, weil auf einem Bein. 
+Der europäischen Wirtschaftsordnung fehlen essentielle Institutionen der Mischwirtschaften der Nachkriegszeit. Wirtschaftliche Integration im gegenwärtigen Modus gefährdet so die Errungenschaften der (westlichen) Wohlfahrtsstaaten, stört die historische Balance zwischen Wachstums- und Verteilungszielen und schafft makroökonomische Ungleichgewichte, die sich in periodischen Krisen entladen. Die europäische Wirtschaftsordnung steht schief und wackelig, weil auf einem Bein. 
 
 Auf diesem einen Bein hat sie regionale Integration nach dem Vorbild der nationalen Ökonomien vollzogen. Der Gemeinsame Markt garantiert Faktor- (Arbeit, Kapital) und Gütermobilität (Produkte, Dienstleistungen), effektiv reguliert durch die Europäische Kommission und das EP. Der Euro schafft ein Zahlungssystem von Weltrang und reduziert Transaktionskosten für Unternehmen und Konsumenten. Seit der 2011/2012 Reform des Stabilitäts- und Wachstumspaktes kontrollieren die Regierungen gegenseitig verstärkt ihre Haushalte, um Überhitzung und Überschuldung durch niedrige Zinsen entgegen zu wirken.
 
